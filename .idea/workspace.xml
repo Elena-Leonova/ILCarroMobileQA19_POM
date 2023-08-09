@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a115e7-4a33-4e29-b294-db0be1ee4b8e" name="Changes" comment="SplashPage.class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/UserDRO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SearchResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SearchTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SplashScreenTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="56a115e7-4a33-4e29-b294-db0be1ee4b8e" name="Changes" comment="SearchCar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SplashPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SplashPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,13 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691140362647</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SearchCar">
+      <created>1691514599625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691514599625</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update main.class" />
     <MESSAGE value="AppiumConfig.class" />
     <MESSAGE value="SplashPage.class" />
-    <option name="LAST_COMMIT_MESSAGE" value="SplashPage.class" />
+    <MESSAGE value="SearchCar" />
+    <option name="LAST_COMMIT_MESSAGE" value="SearchCar" />
   </component>
 </project>
